@@ -1,2 +1,1 @@
-# fundamental-of-internet-project-
-Web design 
+# fundamentals-group
